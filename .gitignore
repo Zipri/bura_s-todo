@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+bura_s-todo.iml
+README.md
+.idea
+node_modules
+.eslintcache
