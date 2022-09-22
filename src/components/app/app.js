@@ -16,10 +16,10 @@ export default class App extends Component {
   maxId = 100;
   state = {
     todoData: [
-      this.createTodoItem('Learn Kamasutra'),
+      this.createTodoItem('Learn React'),
       this.createTodoItem('Build Awesome React App'),
-      this.createTodoItem('Drink Vodka'),
-      this.createTodoItem('Fuck the world'),
+      this.createTodoItem('Find something'),
+      this.createTodoItem('Hello world'),
     ] ,
     term: '',
     filter: 'all'
